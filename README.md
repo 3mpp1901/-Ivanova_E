@@ -1,2 +1,2 @@
-# -Ivanova_E
+# Ivanova_E
  Student: Ivanova E
